@@ -4,16 +4,16 @@ report=[]
 score=[]
 wrong_answers=[]
 vocabulary = {
-              "Eschew": ["To deliberately avoid using"],
-              "Sonder": ["the profound, individual realization that everyone has a life as vivid and complex as your own"], 
-              "Hubris": ["overbearing pride or self-confidence"],
-              "Abstruse": ["difficult to understand"],
-              "Callous": ["disregard for others"], 
-              "Ebullient": ["full of energy, cheerful"], 
-              "Disparate": ["of a distinct kind"], 
-              "Fractious": ["Inclined to make trouble; unruly"], 
-              "Kinetic": ["relating or resulting from motion"], 
-              "Specious": ["superficially plausible. but actually wrong; misleading in appearance"]
+              "Eschew": ["constantly avoid using"],
+              "Sonder": ["the realization a person has that their life is as complicated as theirs"], 
+              "Hubris": ["to have an ego; self-confident"],
+              "Abstruse": ["hard to understand"],
+              "Callous": ["to not think about other people"], 
+              "Ebullient": ["full of energy"], 
+              "Disparate": ["of a different type"], 
+              "Fractious": ["having a tendency to make trouble"], 
+              "Kinetic": ["relates to motion"], 
+              "Specious": ["an argument that looks right but is meant to mislead"]
 }
 
 name=input("What is your name?:")
